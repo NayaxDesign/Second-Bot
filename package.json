@@ -1,0 +1,17 @@
+{
+  "name": "bot-discord",
+  "version": "0.0.1",
+  "description": "bot legacy",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node your-script.js"
+  },
+  "author": "nayax",
+  "license": "ISC"
+}
